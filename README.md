@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zohaib Hassan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Network+%26+System+Engineer;Cloud+%26+Security+Enthusiast;Identity+%26+Access+Management+Specialist;Building+Secure+%26+Scalable+Systems">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1200&color=0A66C2&center=true&vCenter=true&width=850&lines=Network+%26+System+Engineer;Cloud+%26+Security+Enthusiast;Identity+%26+Access+Management;Zero+Trust+%26+Enterprise+Networking">
 </p>
----
 
 ## 🚀 About Me
 
