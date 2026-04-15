@@ -55,7 +55,7 @@
 * VLAN segmentation for Students, Faculty, Admin, and VIP
 * High availability core + access layer
 
----
+
 
 ### 🔐 Identity-Based Internet Access
 
@@ -76,7 +76,7 @@
 * SIP trunk integration
 * Internal communication optimization
 
-
+---
 
 ## 📊 GitHub Stats
 
