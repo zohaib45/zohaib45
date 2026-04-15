@@ -13,7 +13,7 @@
 * ⚙️ Focused on **secure, scalable, and automated systems**
 * 🧠 Continuously learning **Zero Trust & Advanced Security Architectures**
 
----
+
 
 ## 🧠 Skills & Expertise
 
@@ -45,7 +45,7 @@
 * Git & GitHub
 * Virtualization & Deployment Systems
 
----
+
 
 ## 📂 Featured Work
 
@@ -63,14 +63,12 @@
 * Dynamic VLAN assignment based on user roles
 * Bandwidth control using MikroTik (QoS policies)
 
----
 
 ### ☁️ Hybrid Identity Solution
 
 * Azure AD + Google Workspace integration concepts
 * Centralized authentication and access control
 
----
 
 ### 📡 VoIP System Deployment
 
@@ -78,7 +76,7 @@
 * SIP trunk integration
 * Internal communication optimization
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -96,12 +94,12 @@
 * 📊 Centralized Logging & Monitoring
 * 🧠 Advanced Network Security
 
----
+
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn:(https://www.linkedin.com/in/zohaibhassan93)
+* 📧 Email: zohaibhassan1893@gmail.com
 
 ---
 
